@@ -2,9 +2,10 @@
 
 ---
 
-**Author:** [Your Name]
-**Affiliation:** [Your University / Institution]
-**Date:** November 2026
+**Author:** Raghvendra Kumar  
+**Affiliation:** Independent Computational Researcher  
+**GitHub:** [@raghvendrakumarcreator](https://github.com/raghvendrakumarcreator)  
+**Date:** November 2026  
 **Keywords:** Chaos Theory, Double Pendulum, Lyapunov Exponents, Phase Space, Poincaré Sections, Hamiltonian Mechanics, Nonlinear Dynamics
 
 ---

@@ -3,7 +3,7 @@ Computational Analysis for Research Paper:
 "Deterministic Chaos in the Double Pendulum: Lyapunov Exponent Analysis 
  and Phase Space Topology"
 
-Author: [Your Name]
+Author: Raghvendra Kumar (@raghvendrakumarcreator)
 Description: This script performs numerical simulations of the double pendulum
 system, computes Lyapunov exponents, generates phase space portraits, 
 Poincaré sections, and bifurcation diagrams.
